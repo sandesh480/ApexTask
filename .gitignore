@@ -1,0 +1,18 @@
+# --- Python Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Python Cache Files ---
+__pycache__/
+*.pyc
+
+# --- Databases ---
+db.sqlite3
+
+# --- Environment Variables and Secrets ---
+.env
+
+# --- Operating System Junk ---
+.DS_Store
+Thumbs.db
